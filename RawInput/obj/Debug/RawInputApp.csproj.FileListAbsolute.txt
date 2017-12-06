@@ -1,0 +1,12 @@
+D:\Porject\RawInput\RawInput\bin\Debug\WindowsFormsApp1.exe.config
+D:\Porject\RawInput\RawInput\bin\Debug\WindowsFormsApp1.exe
+D:\Porject\RawInput\RawInput\bin\Debug\WindowsFormsApp1.pdb
+D:\Porject\RawInput\RawInput\bin\Debug\RawInput.dll
+D:\Porject\RawInput\RawInput\bin\Debug\RawInput.pdb
+D:\Porject\RawInput\RawInput\obj\Debug\RawInputApp.Form1.resources
+D:\Porject\RawInput\RawInput\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Porject\RawInput\RawInput\obj\Debug\RawInputApp.csproj.GenerateResource.Cache
+D:\Porject\RawInput\RawInput\obj\Debug\RawInputApp.csproj.CoreCompileInputs.cache
+D:\Porject\RawInput\RawInput\obj\Debug\WindowsFormsApp1.exe
+D:\Porject\RawInput\RawInput\obj\Debug\WindowsFormsApp1.pdb
+D:\Porject\RawInput\RawInput\obj\Debug\RawInputApp.csprojResolveAssemblyReference.cache
